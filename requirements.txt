@@ -1,6 +1,15 @@
 ipykernel
 
-# ensembles/bagging/random_forest/random_forest.ipynb
 numpy
+
 matplotlib
+
 scikit-learn
+
+xgboost
+lightgbm
+catboost
+
+optuna
+
+shap
