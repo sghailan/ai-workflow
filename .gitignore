@@ -5,3 +5,9 @@ __pycache__/
 .DS_Store
 
 .vscode/
+
+
+*.pkl
+__pycache__/
+*.pyc
+.env

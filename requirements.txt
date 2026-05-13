@@ -13,3 +13,9 @@ catboost
 optuna
 
 shap
+
+
+
+# parte de MLOps
+fastapi
+uvicorn
