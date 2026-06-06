@@ -8,3 +8,6 @@ SELECT default_database_name FROM sys.server_principals WHERE name = 'sa';
 -- Cambiamos la base de datos por defecto de 'sa' a 'CentroMedico',
 -- de forma que al conectarse ya cae directamente en nuestra base de datos:
 ALTER LOGIN sa WITH DEFAULT_DATABASE = CentroMedico;
+
+
+-- Security -> Logins -> sa
